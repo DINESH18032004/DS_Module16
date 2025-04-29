@@ -17,8 +17,8 @@ first linker child.
 ```
 /*
 Program to write a C function to delete an element in a B Tree
-Developed by: KANISHKAR M
-RegisterNumber:  212222240044
+Developed by: DINESH KUMAR R
+RegisterNumber:  212222110010
 */
 struct BTreeNode { 
 int item[MAX + 1], count; 
