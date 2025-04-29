@@ -14,8 +14,8 @@ To write a C function to delete an element from an AVL Tree.
 ```
 /*
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: KANISHKAR M
-RegisterNumber: 212222240044
+Developed by: DINESH KUMAR R
+RegisterNumber: 212222110010
 */
 node * Delete(node *T,int x) 
 { 
